@@ -44,3 +44,6 @@ INSTALLED_APPS = [
 Django Shell
 python manage.py shell
 note: for autocomplete install pip install ipython using terminal
+
+
+hii
